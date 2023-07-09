@@ -1,2 +1,0 @@
-# arthurcf7
-phyton
